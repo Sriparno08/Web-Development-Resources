@@ -14,3 +14,4 @@ This repository contains a list of resources that you can utilize to learn HTML!
 ### YouTube Videos:
 
 - [HTML Tutorial for Beginners: HTML Crash Course](https://www.youtube.com/watch?v=qz0aGYrrlhU) by Programming with Mosh
+- [Learn HTML – Full Tutorial for Beginners (2022)](https://www.youtube.com/watch?v=kUMe1FH4CHE) by freeCodeCamp
