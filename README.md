@@ -11,6 +11,7 @@ This repository contains a list of resources that you can utilize to learn HTML!
 - [Structuring the Web with HTML](https://developer.mozilla.org/en-US/docs/Learn/HTML) by MDN
 - [HTML5 Tutorial - An Ultimate Guide for Beginners](https://www.tutorialrepublic.com/html-tutorial/) by Tutorial Republic
 - [Learn HTML - HTML Tutorials for Beginners](https://www.programiz.com/html) by Programiz
+- [HTML Beginner Tutorial](https://htmldog.com/guides/html/beginner/) by HTML Dog
 
 ### YouTube Videos:
 
