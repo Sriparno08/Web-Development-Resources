@@ -21,3 +21,4 @@ This repository contains a list of resources that you can utilize to learn HTML!
 ## Learning Platforms:
 
 - [Udemy](https://www.udemy.com/)
+- [Coursera](https://in.coursera.org/)
