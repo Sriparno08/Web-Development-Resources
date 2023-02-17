@@ -23,3 +23,4 @@ This repository contains a list of resources that you can utilize to learn HTML!
 - [Udemy](https://www.udemy.com/)
 - [Coursera](https://in.coursera.org/)
 - [edX](https://www.edx.org/)
+- [Skillshare](https://www.skillshare.com/en/)
