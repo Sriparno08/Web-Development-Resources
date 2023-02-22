@@ -1,8 +1,12 @@
-## HTML Resources
+## Web Development Resources
 
 This repository contains a list of resources that you can utilize to learn HTML!
 
 ## Tutorial Series:
+
+A series of tutorials that will teach you web development in detail!
+
+### HTML
 
 - [HTML Tutorial](https://www.w3schools.com/html/) by W3Schools
 - [HTML Tutorial](https://www.tutorialspoint.com/html/index.htm) by Tutorialspoint
@@ -12,6 +16,10 @@ This repository contains a list of resources that you can utilize to learn HTML!
 - [HTML5 Tutorial - An Ultimate Guide for Beginners](https://www.tutorialrepublic.com/html-tutorial/) by Tutorial Republic
 - [Learn HTML - HTML Tutorials for Beginners](https://www.programiz.com/html) by Programiz
 - [HTML Beginner Tutorial](https://htmldog.com/guides/html/beginner/) by HTML Dog
+
+### CSS
+
+- [CSS Tutorial](https://www.w3schools.com/css/) by W3Schools
 
 ## YouTube Videos:
 
