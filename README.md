@@ -37,3 +37,4 @@ A series of tutorials that will teach you web development in detail!
 - [edX](https://www.edx.org/)
 - [Skillshare](https://www.skillshare.com/en/)
 - [Codecademy](https://www.codecademy.com/)
+- [Pluralsight](https://www.pluralsight.com/)
