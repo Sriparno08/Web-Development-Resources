@@ -22,6 +22,7 @@ A series of tutorials that will teach you web development in detail!
 - [CSS Tutorial](https://www.w3schools.com/css/) by W3Schools
 - [CSS Tutorial](https://www.tutorialspoint.com/css/index.htm) by Tutorialspoint
 - [Learn CSS](https://www.javatpoint.com/css-tutorial) by Javatpoint
+- [CSS Tutorials](https://developer.mozilla.org/en-US/docs/Web/CSS/Tutorials) by MDN Web Docs
 
 ## YouTube Videos:
 
