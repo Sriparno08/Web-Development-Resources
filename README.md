@@ -1,6 +1,6 @@
 ## Web Development Resources
 
-This repository contains a list of resources that you can utilize to learn HTML!
+This repository contains a list of resources that you can utilize to learn Web Development!
 
 ## Tutorial Series:
 
@@ -23,6 +23,7 @@ A series of tutorials that will teach you web development in detail!
 - [CSS Tutorial](https://www.tutorialspoint.com/css/index.htm) by Tutorialspoint
 - [Learn CSS](https://www.javatpoint.com/css-tutorial) by Javatpoint
 - [CSS Tutorials](https://developer.mozilla.org/en-US/docs/Web/CSS/Tutorials) by MDN Web Docs
+- [CSS Tutorial](https://www.scaler.com/topics/css/) by Scaler
 
 ## YouTube Videos:
 
